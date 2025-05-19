@@ -3,3 +3,5 @@
 ###### This is an H6 Header!
 
 I have created three Headers!
+
+![Club Penguin Penguin Image](https://static.wikia.nocookie.net/club-penguin-rewritten/images/b/b1/Black_PC.png/revision/latest?cb=20170724224805)
