@@ -10,3 +10,6 @@ I have created three Headers!
 char Character = 'C';
 int Integer = 78;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
